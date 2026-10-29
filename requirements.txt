@@ -1,0 +1,9 @@
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+scipy>=1.11
+statsmodels>=0.14
+requests>=2.31
+jupyter>=1.0
+# запасной источник данных, нужен только если Binance недоступен
+yfinance>=0.2.40

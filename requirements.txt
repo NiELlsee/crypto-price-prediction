@@ -3,6 +3,7 @@ numpy>=1.26
 matplotlib>=3.8
 scipy>=1.11
 statsmodels>=0.14
+scikit-learn>=1.4
 requests>=2.31
 jupyter>=1.0
 # запасной источник данных, нужен только если Binance недоступен
